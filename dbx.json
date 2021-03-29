@@ -1,0 +1,69 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 17.48366597,
+                "lng" : 78.41728449
+             }
+          },
+          "name" : "Building 1"
+       },
+       {
+        "geometry" : {
+           "location" : {
+              "lat" : 17.4837165,
+              "lng" : 78.41715105
+           }
+        },
+        "name" : "Building 2"
+        },
+        {
+            "geometry" : {
+               "location" : {
+                  "lat" : 17.48373633,
+                  "lng" : 78.41701627
+               }
+            },
+        "name" : "Building 3"
+        },
+        {
+        "geometry" : {
+            "location" : {
+                "lat" : 17.48357707,
+                "lng" : 78.41699615
+            }
+        },
+        "name" : "Building 4"
+        },
+        {
+        "geometry" : {
+            "location" : {
+                "lat" : 17.48351823,
+                "lng" : 78.41709405
+            }
+        },
+        "name" : "Building 5"
+        },
+        {
+        "geometry" : {
+            "location" : {
+                "lat" : 17.48349009,
+                "lng" : 78.4171705
+            }
+        },
+        "name" : "Building 6"
+        },
+        {
+        "geometry" : {
+            "location" : {
+                "lat" : 17.48349335,
+                "lng" : 78.41729679
+            }
+        },
+        "name" : "Building 7"
+        }
+    ],
+    "status" : "OK"
+ }
